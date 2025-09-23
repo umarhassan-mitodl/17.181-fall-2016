@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2016",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Environmental Science"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ]
+  ],
+  "legacy_uid": "1bcab8ef-3c30-1904-9465-bb58096f719b",
+  "instructors": {
+    "content": [
+      "95cfcb22-6e34-0f5e-6f0a-0947d35a8b07"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7c4a2f6d-1e81-6a1b-9de2-8aec6b24d74a",
+    "website": "17-181-sustainability-political-economy-science-and-policy-fall-2016"
+  },
+  "course_title": "Sustainability: Political Economy, Science, and Policy",
+  "course_description": "This course examines alternative conceptions and theoretical underpinnings of sustainable development. It focuses on the sustainability problems of industrial countries, and of developing states and economies in transition. It also explores the sociology of knowledge regarding sustainability, the economic and technological dimensions, and institutional imperatives, along with implications for political constitution of economic performance.\n\n17.181 fulfills the undergraduate public policy requirement in the Political Science {{% resource_link \"e19783b3-413c-45ad-aa33-c3752e755808\" \"major\" %}} and {{% resource_link \"e5a0659e-bd14-4c24-ae06-0c2d6aa70183\" \"minor\" %}}. Graduate students are expected to explore the subject in greater depth through reading and individual research.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "17.182",
+  "primary_course_number": "17.181",
+  "course_image_thumbnail": {
+    "content": "b5146744-182d-a41c-f9c9-3293eb5cefe3",
+    "website": "17-181-sustainability-political-economy-science-and-policy-fall-2016"
+  },
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "c05596e3-2754-4156-87e9-ce32804e121f",
+  "site_short_id": "17.181-fall-2016",
+  "site_url_path": "courses/17-181-sustainability-political-economy-science-and-policy-fall-2016",
+  "title": "Course Metadata"
+}

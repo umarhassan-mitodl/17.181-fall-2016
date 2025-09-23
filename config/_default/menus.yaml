@@ -1,0 +1,31 @@
+leftnav:
+- identifier: 3884215f-ef00-76ef-a74e-87ddb0e030b3
+  name: Syllabus and Calendar
+  pageRef: /pages/syllabus-and-calendar
+  weight: 10
+- identifier: e60aae92-0fbd-0a38-f822-103a375a7806
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 63198d81-fd9d-0dca-a42b-edc4f49cd3f1
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 30
+- identifier: 24190324-3b14-a9fc-16b9-5c11e74e1f4d
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: feb26a36-4914-103c-a3ef-21a5ba029d4f
+  name: Exams
+  pageRef: /pages/exams/
+  weight: 50
+- identifier: 222f2a65-9b17-2ebc-f1ee-bd340cb85a50
+  name: Midterm Exam
+  pageRef: /pages/exams/midterm-exam
+  parent: feb26a36-4914-103c-a3ef-21a5ba029d4f
+  weight: 60
+- identifier: 4d242d42-98f3-2158-5a84-bcfb04446626
+  name: Final  Exam
+  pageRef: /pages/exams/final-exam
+  parent: feb26a36-4914-103c-a3ef-21a5ba029d4f
+  weight: 70
