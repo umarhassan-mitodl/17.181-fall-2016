@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section contains the readings for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -14,27 +16,27 @@ uid: e60aae92-0fbd-0a38-f822-103a375a7806
 
 \[B\] = Becker, Egon, and Thomas Jahn, eds. _Sustainability and the Social Sciences: A Cross-Disciplinary Approach to Integrating Environmental Considerations into Theoretical Reorientation_. Zed Books, 1999. ISBN: 9781856497091.
 
-\[C\] = {{% resource_link "6a699bfb-8224-46bd-bc70-2eb87d9ae41c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Choucri, Nazli, ed. _Global Accord: Environmental Challenges and International Responses_. MIT Press, 1995. ISBN: 9780262531344. \[Preview with {{% resource_link "4d035934-3f04-4333-9fd8-ba96accaa335" "Google Books" %}}\]
+\[C\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262531344) Choucri, Nazli, ed. _Global Accord: Environmental Challenges and International Responses_. MIT Press, 1995. ISBN: 9780262531344. \[Preview with [Google Books](http://books.google.com/books?id=DG_7yHCNRI0C&pg=PAfrontcover)\]
 
-\[CH\] = Choucri, Nazli, Dinisha Mistree, et al. _Mapping Sustainability: Knowledge e-Networking and the Value Chain_. Springer Press, 2014. ISBN: 9789400799851. \[Preview with {{% resource_link "f0462b89-c81e-430b-be38-022eae44d239" "Google Books" %}}\]
+\[CH\] = Choucri, Nazli, Dinisha Mistree, et al. _Mapping Sustainability: Knowledge e-Networking and the Value Chain_. Springer Press, 2014. ISBN: 9789400799851. \[Preview with [Google Books](http://books.google.com/books?id=ZNQ3g1qHffgC&pg=PAfrontcover)\]
 
 \[CO\] = Costanza, Robert, ed. _Ecological Economics: The Science and Management of Sustainability_. Columbia University Press, 1991. ISBN: 9780231075633.
 
-\[E\] = {{% resource_link "34ac5c05-e615-4b00-a6e8-415710ed6921" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Easterly, William. _The Elusive Quest for Growth: Economists' Adventures and Misadventures in the Tropics_. MIT Press, 2002. ISBN: 9780262550420.
+\[E\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262550420) Easterly, William. _The Elusive Quest for Growth: Economists' Adventures and Misadventures in the Tropics_. MIT Press, 2002. ISBN: 9780262550420.
 
 \[L\] = Lang, Winifred, ed. _Sustainable Development and International Law (International Environmental Law and Policy Series)_. Springer, 1995. ISBN: 9781859661796.
 
 \[O\] = Ostrom, Elinor, Larry Schroeder, et al. _Institutional Incentives and Sustainable Development: Infrastructure Policies in Perspective_. Westview Press, 1993. ISBN: 9780813316192.
 
-\[P\] = {{% resource_link "943a3cbf-2b3f-4ed2-a275-132fae6ee889" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Pirages, Dennis, and Ken Cousins, eds. _From Resource Scarcity to Ecological Security: Exploring New Limits to Growth_. MIT Press, 2005. ISBN: 9780262661898.
+\[P\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262661898) Pirages, Dennis, and Ken Cousins, eds. _From Resource Scarcity to Ecological Security: Exploring New Limits to Growth_. MIT Press, 2005. ISBN: 9780262661898.
 
 \[S\] = Stavins, Robert N., ed. _Economics of the Environment: Selected Readings_. 5th edition. Edited by Robert N. Stavins. W. W. Norton & Company, 2005. ISBN: 9780393927016.
 
 \[ST\] = Stavins, Robert N., ed. _Economics of the Environment: Selected Readings_. 6th edition. W. W. Norton & Company, 2012. ISBN: 9780393913408.
 
-\[T\] = Tainter, Joseph A. _The Collapse of Complex Societies (New Studies in Archaeology)_. Cambridge University Press, 1990. ISBN: 9780521386739. \[Preview with {{% resource_link "34c0b275-5d99-41ed-8e23-9182adbe8a72" "Google Books" %}}\]
+\[T\] = Tainter, Joseph A. _The Collapse of Complex Societies (New Studies in Archaeology)_. Cambridge University Press, 1990. ISBN: 9780521386739. \[Preview with [Google Books](https://books.google.co.in/books?id=YdW5wSPJXIoC&printsec=frontcover&dq=The+Collapse+of+Complex+Societies.&hl=en&sa=X&redir_esc=y#v=onepage&q=The%20Collapse%20of%20Complex%20Societies.&f=false)\]
 
-\[TE\] = {{% resource_link "2d497a9c-bfdd-4866-94f2-2e58bcdb7e33" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tester, Jefferson W., Elisabeth M. Drake, et al, eds. _Sustainable Energy: Choosing Among Options_. 2nd edition. MIT Press, 2012. ISBN: 9780262017473. \[Preview with {{% resource_link "af3dfffb-0d8f-4589-ac81-dfb229e09ec1" "Google Books" %}}\]
+\[TE\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262017473) Tester, Jefferson W., Elisabeth M. Drake, et al, eds. _Sustainable Energy: Choosing Among Options_. 2nd edition. MIT Press, 2012. ISBN: 9780262017473. \[Preview with [Google Books](https://books.google.co.in/books?id=pd7xCwAAQBAJ&printsec=frontcover&dq=Sustainable+Energy:+Choosing+Among+Options&hl=en&sa=X&ved=0ahUKEwjLt6aGoZLUAhUKtY8KHRiLB2gQuwUILDAA#v=onepage&q&f=false)\]
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -74,11 +76,11 @@ Introduction-Debates, Definitions & Dilemmas
 
 \[ST\] Solow, Robert M. Chapter 28: Sustainability: An Economist's Perspective.
 
-Solow, Robert M. "{{% resource_link "adc4f94b-7272-4383-8bef-537ce1a73ab6" "Richard T. Ely Lecture: The Economics of Resources or the Resources of Economics" %}}." _American Economic Review_ 64, no. 2 (1974): 1–14. (Papers and Proceedings of the Eighty-sixth Annual Meeting of the American Economic Association)
+Solow, Robert M. "[Richard T. Ely Lecture: The Economics of Resources or the Resources of Economics](http://www.jstor.org/stable/1816009)." _American Economic Review_ 64, no. 2 (1974): 1–14. (Papers and Proceedings of the Eighty-sixth Annual Meeting of the American Economic Association)
 
 ### Related
 
-Goodland, Robert, and George Ledec. "{{% resource_link "bdd68125-5c6a-4950-bbad-c6b976a6b208" "Neoclassical Economics and Principles of Sustainable Development" %}}." _Ecological Modeling_ 38 (1987): 19–46.
+Goodland, Robert, and George Ledec. "[Neoclassical Economics and Principles of Sustainable Development](https://doi.org/10.1016/0304-3800(87)90043-3)." _Ecological Modeling_ 38 (1987): 19–46.
 
 Holdren, John P., Gretchen C. Daily, et al. "The Meaning of Sustainability: Biogeophysical Aspects." Chapter 1 in _Defining and Measuring Sustainability: The Biogeophysical Foundations_. Edited by Mohan Munasinghe and Walter Shearer. World Bank, 1995. ISBN: 9780821331347.
 
@@ -142,13 +144,13 @@ Sustainability as a "Knowledge Domain"
 
 \[ST\] Simpson, R. David. Chapter 25: Economic Analysis and Ecosystems: Some Concepts and Issues.
 
-{{% resource_link "4842268e-d2f3-40a8-9877-3f6fcfc752b5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Choucri, Nazli. "Cyber Content: Leveraging Knowledge and Networking." Chapter 4 in _Cyberpolitics in International Relations_. MIT Press, 2012. ISBN: 9780262517690. \[Preview with {{% resource_link "9eb05e20-7c44-4286-b30b-514080bf9123" "Google Books" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262517690) Choucri, Nazli. "Cyber Content: Leveraging Knowledge and Networking." Chapter 4 in _Cyberpolitics in International Relations_. MIT Press, 2012. ISBN: 9780262517690. \[Preview with [Google Books](http://books.google.com/books?id=N7iNQSj-X84C&pg=PA71=onepage)\]
 
 ### Related
 
 Holling, C.S. "Sustainability: The Cross-Scale Dimension." Chapter 4 in _Defining and Measuring Sustainability: The Biogeophysical Foundations_. Edited by Mohan Munasinghe and Walter Shearer. World Bank, 1995. ISBN: 9780821331347.
 
-{{% resource_link "06007e82-057f-4eb7-aeab-0e3f1e5b536c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lofdahl, Corey L. "Lateral Pressure Theory." Chapter 2 in _Environmental Impacts of Globalization and Trade: A Systems Study_. MIT Press, 2002. ISBN: 9780262122450. \[Preview with {{% resource_link "54718ad5-eedc-44fe-ad15-2cbbfcd747b5" "Google Books" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262122450) Lofdahl, Corey L. "Lateral Pressure Theory." Chapter 2 in _Environmental Impacts of Globalization and Trade: A Systems Study_. MIT Press, 2002. ISBN: 9780262122450. \[Preview with [Google Books](http://books.google.com/books?id=d54TsD-nx1IC&pg=PA29=onepage)\]
 
 ### Essential
 
@@ -172,13 +174,13 @@ Cyberspace & Sustainability
 
 ### Required
 
-{{% resource_link "4842268e-d2f3-40a8-9877-3f6fcfc752b5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Choucri, Nazli. "Cyberspace and Sustainability: Convergence on the Global Agenda." Chapter 9 in _Cyberpolitics in International Relations_. MIT Press, 2012. ISBN: 9780262517690.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262517690) Choucri, Nazli. "Cyberspace and Sustainability: Convergence on the Global Agenda." Chapter 9 in _Cyberpolitics in International Relations_. MIT Press, 2012. ISBN: 9780262517690.
 
 Drucker, Peter F. "From Capitalism to Knowledge Society." Chapter 2 in _The Knowledge Economy_. Edited by Dale Neef. Butterworth-Heinemann, 1997. ISBN: 9780750699365.
 
 Landes, David S. "Homo Faber, Homo Sapiens: Knowledge, Technology, Growth, and Development." Chapter 5 in _The Knowledge Economy_. Edited by Dale Neef. Butterworth-Heinemann, 1997. ISBN: 9780750699365.
 
-Ospina, Angelina Valeria, and Richard Heeks. "{{% resource_link "0f24cf4d-90e7-4feb-9e02-659f0feb9f4c" "Unveiling the Links between ICTs & Climate Change in Developing Countries: A Scoping Study" %}}." Center for Development Informatics, Institute for Development Policy and Management, SED, 2010, pp. 1–16.
+Ospina, Angelina Valeria, and Richard Heeks. "[Unveiling the Links between ICTs & Climate Change in Developing Countries: A Scoping Study](http://www.comminit.com/africa/content/unveiling-links-between-icts-climate-change-developing-countries-scoping-study)." Center for Development Informatics, Institute for Development Policy and Management, SED, 2010, pp. 1–16.
 
 ### Related
 
@@ -224,9 +226,9 @@ Critical Drivers-Social Mechanisms & Cognitive Factors
 
 \[P\] Runci, Paul J., and Chester L. Cooper. Chapter 3: Reflections on an Aging Global Population.
 
-Barzel, Yoram. "The Property Rights Model." Chapter 1 in _Economic Analysis of Property Rights (Political Economy of Institutions and Decisions)_. 2nd edition. Cambridge University Press, 1997. ISBN: 9780521597135. \[Preview with {{% resource_link "f8f2c88e-2174-469f-bc2b-aa1cbb60382e" "Google Books" %}}\]
+Barzel, Yoram. "The Property Rights Model." Chapter 1 in _Economic Analysis of Property Rights (Political Economy of Institutions and Decisions)_. 2nd edition. Cambridge University Press, 1997. ISBN: 9780521597135. \[Preview with [Google Books](http://books.google.com/books?id=UIfxgF4qqAwC&pg=PA3=onepage)\]
 
-———. "The Old Firm and the New Organization." Chapter 5 in _Economic Analysis of Property Rights (Political Economy of Institutions and Decisions)_. 2nd edition. Cambridge University Press, 1997. ISBN: 9780521597135. \[Preview with {{% resource_link "8d45a58c-cbc2-4d51-9204-2c14e99968bf" "Google Books" %}}\]
+———. "The Old Firm and the New Organization." Chapter 5 in _Economic Analysis of Property Rights (Political Economy of Institutions and Decisions)_. 2nd edition. Cambridge University Press, 1997. ISBN: 9780521597135. \[Preview with [Google Books](http://books.google.com/books?id=UIfxgF4qqAwC&pg=PA65=onepage)\]
 
 Choucri, Nazli. "Population and the Global Environment." In _Energy and the Environment in the 21{{< sup "st" >}} Century_. Edited by Jefferson W. Tester. MIT Press, 1991. ISBN: 9780262200783.
 
@@ -264,7 +266,7 @@ Economic Performance-Production & Consumption
 
 \[A\] Chapter 6: Applications to Practice: Sector Initiatives.
 
-{{% resource_link "06007e82-057f-4eb7-aeab-0e3f1e5b536c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lofdahl, Corey L. "Exploring Complexity: System Dynamics Analysis." Chapter 5 in _Environmental Impacts of Globalization and Trade: A Systems Study_. MIT Press, 2002. ISBN: 9780262122450. \[Preview with {{% resource_link "9d6fd975-540e-4ee5-983b-4e64adaf851c" "Google Books" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262122450) Lofdahl, Corey L. "Exploring Complexity: System Dynamics Analysis." Chapter 5 in _Environmental Impacts of Globalization and Trade: A Systems Study_. MIT Press, 2002. ISBN: 9780262122450. \[Preview with [Google Books](http://books.google.com/books?id=d54TsD-nx1IC&pg=PA127=onepage)\]
 
 ### Essential
 
@@ -370,7 +372,7 @@ Pearce, David. "Sustainable Development and Developing Country Economies." Chapt
 
 \[T\] Chapter 6: Summary and Implications.
 
-See the {{% resource_link "7759b0bb-a1e5-4fff-8a53-216d2f139873" "Global System for Sustainable Development" %}} site for specific 'matching' of 'problems' and 'solutions' by sector, issue, unit, level, context.
+See the [Global System for Sustainable Development](http://gssd.mit.edu/) site for specific 'matching' of 'problems' and 'solutions' by sector, issue, unit, level, context.
 
 
 {{< tdclose >}}
@@ -396,7 +398,7 @@ New International Institutional Contexts
 
 \[C\] Haas, Peter M., with Jan Sundgren. Chapter 12: Evolving International Environmental Law: Changing Practices of National Sovereignty.
 
-Metrick, Andrew, and Martin L. Weitzman. "{{% resource_link "a13a3551-de31-4bc7-bed6-196e405236a9" "Conflicts and Choices in Biodiversity Preservation" %}}." _Journal of Economic Perspectives_ 12, no. 3 (1998): 21–34.
+Metrick, Andrew, and Martin L. Weitzman. "[Conflicts and Choices in Biodiversity Preservation](http://www.jstor.org/stable/2647030)." _Journal of Economic Perspectives_ 12, no. 3 (1998): 21–34.
 
 Ostrom, Elinor. "A Framework for Analysis of Self-Organizing and Self-Governing CPRs." Chapter 6 in _Governing the Commons: The Evolution of Institutions for Collective Action_. Cambridge University Press, 2015. ISBN: 9781107569782.
 
@@ -404,9 +406,9 @@ Ostrom, Elinor. "A Framework for Analysis of Self-Organizing and Self-Governing 
 
 \[L\] Sands, Philippe. Chapter 5: International Law in the Field of Sustainable Development: Emerging Legal Principles.
 
-{{% resource_link "1cff617e-8017-4b25-b3bf-e785fcb87495" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Levy, David L., and Peter J. Newell. "Introduction: The Business of Global Environmental Governance." Chapter 1 in _The Business of Global Environmental Governance_. Edited by David L. Levy and Peter J. Newell. MIT Press, 2004. ISBN: 9780262621885.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621885) Levy, David L., and Peter J. Newell. "Introduction: The Business of Global Environmental Governance." Chapter 1 in _The Business of Global Environmental Governance_. Edited by David L. Levy and Peter J. Newell. MIT Press, 2004. ISBN: 9780262621885.
 
-{{% resource_link "1cff617e-8017-4b25-b3bf-e785fcb87495" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Levy, David L. "Business and the Evolution of the Climate Regime: The Dynamics of Corporate Strategies." Chapter 4 in _The Business of Global Environmental Governance_. Edited by David L. Levy and Peter J. Newell. MIT Press, 2004. ISBN: 9780262621885.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621885) Levy, David L. "Business and the Evolution of the Climate Regime: The Dynamics of Corporate Strategies." Chapter 4 in _The Business of Global Environmental Governance_. Edited by David L. Levy and Peter J. Newell. MIT Press, 2004. ISBN: 9780262621885.
 
 ### Essential
 
@@ -438,13 +440,13 @@ International Responses to Sustainability Dilemmas
 
 \[CH\] Wickboldt, Anne-Katrin. Chapter 14: Growing Clean?: Property Rights, Economic Growth, and the Environment.
 
-Røpke, Inge. "{{% resource_link "c9359a80-4de6-421c-8933-78ca6c628e20" "Trade, Development and Sustainability—A Critical Assessment of the 'Free Trade Dogma" %}}'." _Ecological Economics_ 9, no. 1 (1994): 13–22.
+Røpke, Inge. "[Trade, Development and Sustainability—A Critical Assessment of the 'Free Trade Dogma](https://doi.org/10.1016/0921-8009(94)90013-2)'." _Ecological Economics_ 9, no. 1 (1994): 13–22.
 
 ### Related
 
 \[ST\] Kelman, Steven. Chapter 14: Cost-Benefit Analysis: An Ethical Critique.
 
-Goldman, Patti A. {{% resource_link "2b8b16b1-2134-4ae5-84c9-f0ebe0e5c5d0" "\"Resolving the Trade and Environment Debate: In Search of a Neutral Forum and Neutral Principles.\" (PDF - 1.4MB)" %}} _Washington & Lee Law Review_ 49, no. 4 (1992): 1279–98.
+Goldman, Patti A. ["Resolving the Trade and Environment Debate: In Search of a Neutral Forum and Neutral Principles." (PDF - 1.4MB)](http://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1902&context=wlulr) _Washington & Lee Law Review_ 49, no. 4 (1992): 1279–98.
 
 ### Essential
 
@@ -478,11 +480,11 @@ Global Accord: Next Round
 
 \[C\] Brewer, Garry D. Chapter 8: Environmental Challenges and Managerial Responses.
 
-Sell, Susan K. "{{% resource_link "fc509f76-57e5-4847-84ef-0d6682860b8e" "Revenge of the 'Nerds': Collective Action Against Intellectual Property Maximalism in the Global Information Age" %}}." _International Studies Review_ 15, no. 1 (2013): 67–85.
+Sell, Susan K. "[Revenge of the 'Nerds': Collective Action Against Intellectual Property Maximalism in the Global Information Age](https://doi.org/10.1111/misr.12021)." _International Studies Review_ 15, no. 1 (2013): 67–85.
 
 ### Essential
 
-{{% resource_link "206afaa3-93c7-4a23-8129-2c684ea1bdc2" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Dolšak, Nives, and Elinor Ostrom, eds. "The Challenges of the Commons." Chapter 1 in _The Commons in the New Millennium: Challenges and Adaptations_. MIT Press, 2003. ISBN: 9780262042147. \[Preview with {{% resource_link "098308dc-9497-4467-90ed-3a8449d266b8" "Google Books" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262042147) Dolšak, Nives, and Elinor Ostrom, eds. "The Challenges of the Commons." Chapter 1 in _The Commons in the New Millennium: Challenges and Adaptations_. MIT Press, 2003. ISBN: 9780262042147. \[Preview with [Google Books](http://books.google.com/books?id=UUdYIUTqpVsC&pg=PA3=onepage)\]
 
 
 {{< tdclose >}}
