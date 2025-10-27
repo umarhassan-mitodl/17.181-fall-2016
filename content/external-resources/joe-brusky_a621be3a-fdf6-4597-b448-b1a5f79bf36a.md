@@ -1,0 +1,10 @@
+---
+content_type: external-resource
+external_url: https://www.flickr.com/photos/40969298@N05/15338558461/in/photolist-pnq83v-7gq8jQ-nS84jZ-piaK7y-SUJVS9-TssPHp-SUJWrf-5a23Xi-qKajfk-SM1ovc-nmyzse-hB4aPZ-nTFNTM-4nUV2k-7m9CNf-7WnLUC-7m5KFp-5uLmkp-iGfwLi-piaJN7-eyokWH-hK5KXw-7WjuLi-SM1n6P-eBo6XM-nmh6go-5AzVhp-89y5Dd-RFPz6U-5a6g6d-5CZaMx-eyhEZp-p6dvS4-f3okZs-qZpWWP-9ixHzd-ssUHrz-eyhAyF-5WDqo4-aK1ZGn-6AP9XW-eysuTf-dEcMZE-4dwgit-p6doSf-6PRCYZ-aK22Fp-6PRCZZ-eykKjS-6PRCWr
+has_external_license_warning: true
+license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: ''
+title: Joe Brusky
+uid: a621be3a-fdf6-4597-b448-b1a5f79bf36a
+wayback_url: ''
+---
