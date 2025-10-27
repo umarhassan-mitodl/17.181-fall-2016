@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains the course syllabus, including course requirements,
   course books, web sites, and calendar info.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus and Calendar
